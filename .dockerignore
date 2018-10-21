@@ -3,7 +3,8 @@
 **/.git/
 **/.vscode
 infra/
-global.json
+**/global.json
 **/Dockerfile*
 **/.dockerignore*
 **/docker-compose*.yml
+**/*.user
